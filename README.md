@@ -5,5 +5,5 @@
 [![twitter](https://img.shields.io/twitter/follow/wakatime?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/WakaTime)
 
 - 🔭 I’m currently working on [ibm.com/colombia](https://ibm.com)
-- 💬 Ask me about Abap, Hana Database, TypeScript, Sapui5.
+- 💬 Ask me about Abap, Hana Database, TypeScript, Sapui5
 - 📫 [@WakaTime](https://twitter.com/wakatime) on Twitter
